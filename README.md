@@ -39,3 +39,5 @@ git add . is read as git | add | ., where the period represents everything in th
 git commit -m "message" is read as git | commit -m | "message"; and
 git status is read as git | status | (no destination).
  -->
+
+ <!-- Adding a new commit to git hub -->
